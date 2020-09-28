@@ -168,6 +168,7 @@ p {
 }
 
 /*Social Media Icons*/
+
 .social-wrapper {
   text-align: center;
   padding: 2rem;
@@ -182,15 +183,12 @@ p {
 .facebook-icon,
 .instagram-icon,
 .linkedin-icon,
-.googleplus-icon,
-.youtube-icon,
-.foursquare-icon {
+.youtube-icon {
   margin-top: .625em;
   width: 40px;
   height: 40px;
   opacity: .6;
   filter: alpha(opacity=60);
-  /* For IE8 and earlier */
   border-radius: 25px;
 }
 
@@ -198,12 +196,9 @@ p {
 .facebook-icon:hover,
 .instagram-icon:hover,
 .linkedin-icon:hover,
-.googleplus-icon:hover,
-.youtube-icon:hover,
-.foursquare-icon:hover {
+.youtube-icon:hover {
   opacity: 1.0;
   filter: alpha(opacity=100);
-  /* For IE8 and earlier */
 }
 
 .footer-nav p {
