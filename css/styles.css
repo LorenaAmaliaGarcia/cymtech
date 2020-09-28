@@ -176,13 +176,12 @@ p {
 
 .social-wrapper ul li {
   display: inline;
-  margin-right: 2rem;
+  margin-right: 4rem;
 }
 
 .twitter-icon,
 .facebook-icon,
 .instagram-icon,
-.linkedin-icon,
 .youtube-icon {
   margin-top: .625em;
   width: 40px;
@@ -195,7 +194,6 @@ p {
 .twitter-icon:hover,
 .facebook-icon:hover,
 .instagram-icon:hover,
-.linkedin-icon:hover,
 .youtube-icon:hover {
   opacity: 1.0;
   filter: alpha(opacity=100);
