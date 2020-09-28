@@ -1,5 +1,7 @@
 body {
   font-family: "Montserrat";
+  padding: 0;
+  margin: 0;
 }
 
 #title {
@@ -98,21 +100,9 @@ p {
 }
 
 /* videos */
-.carousel-item {
-  flex: 0 0 150%;
-}
-
-.d-block {
-  height: 30rem;
-  width: 100%;
-}
-
-#carouselExampleControls {
-  margin: 2rem 4rem;
-}
-
-.iframe-container {
-  margin: 0 3rem;
+#subscribe-img {
+  width: 150px;
+  height: 150px;
 }
 
 .divider {
@@ -124,7 +114,7 @@ p {
 }
 
 .badge {
-  margin: 2rem 0 0 4rem;
+  margin: 2rem 0 0 8rem;
 }
 
 .btn {
@@ -135,6 +125,33 @@ p {
   font-family: "Ubuntu";
   color: #FF4C68;
   padding: 4rem 0 4rem 2rem;
+}
+
+.pb-video-container {
+  background: #fff;
+  margin: 0;
+  padding: 2rem 8rem;
+}
+
+.pb-video {
+  border: 1px solid #fff;
+  padding: 5px;
+}
+
+.pb-video:hover {
+  background: #fff;
+}
+
+.pb-video-frame {
+  transition: width 1s, height 1s;
+}
+
+.pb-video-frame:hover {
+  height: 300px;
+}
+
+.pb-row {
+  margin: 0;
 }
 
 /* Social Media */
