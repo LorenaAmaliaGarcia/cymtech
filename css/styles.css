@@ -167,7 +167,7 @@ p {
 /*Social Media Icons*/
 .social-wrapper {
   text-align: center;
-  padding: 2rem;
+  padding: 1rem;
 }
 
 .social-wrapper ul li {
@@ -198,4 +198,5 @@ p {
 .footer-nav p {
   text-align: center;
   color: #fff;
+  font-size: 13px;
 }
