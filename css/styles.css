@@ -100,9 +100,10 @@ p {
 }
 
 /* videos */
+
 #subscribe-img {
-  width: 150px;
-  height: 150px;
+  width: 10%;
+  height: 10%;
 }
 
 .divider {
