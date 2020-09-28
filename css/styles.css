@@ -103,8 +103,6 @@ p {
 #subscribe-img {
   width: 10rem;
   height: 10rem;
-  padding-bottom: 0;
-  margin-bottom: 0;
 }
 
 .divider {
@@ -160,8 +158,6 @@ p {
 .site-footer {
   background-color: #FF4C68;
   text-align: center;
-  margin: 0px 0;
-  padding: 0px 0;
 }
 
 #social-wrapper {
@@ -176,7 +172,7 @@ p {
 
 .social-wrapper ul li {
   display: inline;
-  margin-right: 4rem;
+  margin-right: 3rem;
 }
 
 .twitter-icon,
